@@ -4,5 +4,5 @@
 - HTML, CSS, Markdown
 - Github
 - Taking pictures
-- Writing technical documentation
+- [Writing technical documentation](http://www.dozuki.com/Tech_Writing)
 
