@@ -1,14 +1,18 @@
 # 2D Design
 
 - [Vector vs Raster](https://www.youtube.com/watch?v=-Fs2t6P5AjY)
-- Gimp: Bitmap drawing [gimp](https://www.youtube.com/watch?v=wLSvubMGb8A)
-- Inkscape: Vector drawing [tutorial](http://archive.fabacademy.org/archives/2016/doc/inkscape.html)
+- [Fonts](https://fonts.google.com/)
+- [Gimp](https://www.gimp.org): Bitmap drawing [tutorial](https://www.youtube.com/watch?v=wLSvubMGb8A)
+- [Inkscape](https://inkscape.org): Vector drawing [tutorial](http://archive.fabacademy.org/archives/2016/doc/inkscape.html)
+- [CAD Software](https://en.wikipedia.org/wiki/Computer-aided_design)
 - Commercial alternatives: 
     - Illustrator
     - Sketch
     - Drafsight
     - Autocad
+- [Tracing manually]()
 - [Tracing an image](https://inkscape.org/en/doc/tracing/tutorial-tracing.html)
+- [Cloning in Inkscape](http://www.linuxformat.com/wiki/index.php/Inkscape_-_cloning_and_tiling)
 
 **Assignment 1: draw a vector logo**
 
