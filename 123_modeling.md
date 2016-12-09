@@ -12,20 +12,19 @@
 
 **Assignment 3: reproduce an object**
 
-
 # 3D Modeling
 
+- [3D Modeling concepts](http://blog.digitaltutors.com/basic-3d-modeling-terminology/)
 - Mesh vs Nurbs vs Parametric
 - Mesh modeling (Tinkercad, Maya, Blender)
 - Nurbs (Rhinoceros)
 - Parametric (OpenSCAD, OnShape, Solidworks)
 - [CAD Tutorials](http://archive.fabacademy.org/archives/2016/doc/cad.html)
 
-**Assignment 3: make a 3D Model that can't be built using a 2D design, either mesh or parametric
+**Assignment 4: make a 3D Model that can't be built using a 2D design, either mesh or parametric**
 
 # Reverse engineering 
 
 - [How to measure something using vernier caliper](http://www.wikihow.com/Use-a-Vernier-Caliper)
 
-
-**Assignment 4: measure something and model it. I.e. Using an actual object as reference for dimensions**
+**Assignment 5: measure something and model it. I.e. Using an actual object as reference for dimensions**
