@@ -6,6 +6,11 @@
 - Telling your story, helping others avoiding the same mistakes
 - Building a portfolio
 
+## Text editor
+
+- [Github editor](http://github.com/fablabtoscana/fabacademy-bootcamp-2017)
+- [Textmate](https://macromates.com/), [Brackets](http://brackets.io), [Atom](http://atom.io), [Emacs](https://www.gnu.org/s/emacs), [Vi](https://en.wikipedia.org/wiki/Vi)
+
 ## Formatting
 
 - [HTML5 + CSS](http://www.w3schools.com/)
