@@ -8,12 +8,7 @@
   * [FabLabs.io](http://fablabs.io)
   * [Fab Foundation](http://fabfoundation.org)
   * [Fab Academy](http://fabacademy.org)
-- Methodology
-  * Distributed education
-  * Personal Research
-  * No roads
-  * Free your mind (forget what you already know)
-  * Be brave, Take risks (not physical risks)
+- [Methodology](./methodology.md)
 - How it works
   * Weekly Assignments
   * Documentation
