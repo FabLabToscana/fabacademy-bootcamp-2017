@@ -10,15 +10,19 @@
     - Sketch
     - Drafsight
     - Autocad
-- [Tracing manually]()
-- [Tracing an image](https://inkscape.org/en/doc/tracing/tutorial-tracing.html)
-- [Cloning in Inkscape](http://www.linuxformat.com/wiki/index.php/Inkscape_-_cloning_and_tiling)
+- [Tracing manually](http://goinkscape.com/how-to-vectorize-in-inkscape/)
+- Tracing an image [Inkscape](https://inkscape.org/en/doc/tracing/tutorial-tracing.html), [Illustrator](http://blogs.adobe.com/adobeillustrator/2013/07/image-trace-in-illustrator-a-tutorial-and-guide.html)
+- [Cloning in Inkscape](http://www.linuxformat.com/wiki/index.php/Inkscape_-_cloning_and_tiling),
+[Cloning in Illustrator](https://helpx.adobe.com/illustrator/using/duplicating-objects.html)
 
 **Assignment 1: draw a vector logo**
 
 **Assignment 2: make a 3D model out of 2D parts**
 
 **Assignment 3: reproduce an object**
+
+[Living Hinge](http://obrary.com/products/living-hinge-patterns)
+
 
 # 3D Modeling
 
@@ -31,6 +35,8 @@
 - Nurbs (Rhinoceros)
 
 - Parametric ([OpenSCAD](http://openscad.org), [OnShape](http://onshape.com), [Solidworks](http://solidworks.com))
+
+- [Antimony](https://github.com/mkeeter/antimony), [Parametric Joints](http://academy.cba.mit.edu/classes/computer_cutting/joints.sb)
 
 - [CAD Tutorials](http://archive.fabacademy.org/archives/2016/doc/cad.html)
 
